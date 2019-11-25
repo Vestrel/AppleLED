@@ -1,0 +1,7 @@
+.vscode/
+bin/
+AppleLED.code-workspace
+*.gch
+*.o
+*.a
+*.code-workspace
